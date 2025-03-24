@@ -2,7 +2,7 @@ import re
 import streamlit as st
 
 #page styling
-st.set_page_config(page_title="Password Strength Checker by Pashmeen Zia", page_icon="🌘", layout="centered")
+st.set_page_config(page_title="Password Strength Checker by RIJA ZEESHAN", page_icon="🌘", layout="centered")
 
 #custom CSS
 st.markdown("""
